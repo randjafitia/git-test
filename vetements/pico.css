@@ -1,0 +1,5 @@
+body{
+    --pico-background-color: red;
+    --pico-font-family-emogi:var(--pico-background-color)
+    }
+}
